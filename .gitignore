@@ -1,0 +1,9 @@
+# Claude Code project notes (kept locally, not committed)
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
